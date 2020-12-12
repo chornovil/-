@@ -1,0 +1,81 @@
+<!dostype html>
+<html>
+<head>
+     <title>Text</title>
+  <style>
+   ul {
+    list-style-image: url("C:\Users\Lenovo\Desktop\checkmark.png");
+   }
+  </style>
+</head>
+<body>
+<div>
+     <h1><font size="8" face="CHICAGO">Резюме</font></h1>
+     <p><img src="C:\Users\Lenovo\Desktop\newsimg84151.jpg"></p>
+     <h2><font size="6" face="CHICAGO">Чорновил Иван Андреевич</font></h2>
+</div>
+<div>
+<table border="0">
+<tr> 
+     <td>Желаемая должность</td>
+     <td>Консультант</td>
+</tr>
+     <h3>Краткая информация</h3>
+<tr> 
+     <td>Мобильный телефон</td>
+     <td>+380997487233</td>
+</tr>
+<tr>
+     <td>Ел. пошта</td>
+     <td>Testnext@gmail.com</td>
+</tr>
+<tr> 
+     <td>Возраст</td>
+     <td>19</td>
+</tr>
+<tr> 
+     <td>Проживание</td>
+     <td>Черкаськая обл. м.Смила вул.Звенигородськая дом №3</td>
+</tr>
+<tr> 
+     <td>Желаемая заработная плата</td>
+     <td>1300 доларов</td>
+</tr>
+<tr> 
+     <td>Гражданство</td>
+     <td>Украинець</td>
+</tr>
+<tr> 
+     <td>Языка</td>
+     <td>Украинский, русский</td>
+</tr>
+<tr> 
+     <td>Образование</td>
+     <td>Средняя</td>
+</tr>
+<tr> 
+     <td>Опыт работы</td>
+     <td>Неимею
+</td>
+</tr>
+</table>
+</div>
+<div>
+<ul id="menu1">
+            <li><details><summary>Что я умею:</summary>
+            <ul>
+                <li>Петь</li>
+                <li>Агитировать</li>
+                <li>Представить товар</li>
+            </ul></details>
+            </li>
+            <li><details><summary>Что я не умею</summary>
+            <ul>
+                <li>Писать код</li>
+                <li>Ремонтировать принтери и ПК </li>
+            </ul></details>
+            </li>
+</ul>
+</div>
+</body>
+</html>
